@@ -4,3 +4,5 @@ info:
 
 name: Paul
 words: 'God bless you'
+
+food: '${cipher}加密内容'
